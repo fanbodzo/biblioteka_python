@@ -1,2 +1,2 @@
 # biblioteka_python
-projekt biblioteki w 
+projekt biblioteki w python
